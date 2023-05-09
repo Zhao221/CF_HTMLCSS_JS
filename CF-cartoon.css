@@ -1,0 +1,1231 @@
+.message-photo1 {
+	background-position: -108px 0px;
+	display: block;
+	width: 36px;
+	height: 36px;
+	margin: 0px auto;
+	background-image: url(./HTML和CSS作品图片视频/sprite.png);
+	background-repeat: no-repeat;
+}
+ @keyframes message-cartoon{
+ 	from{
+ 		 transform:rotateY(0deg);
+ 		}
+ 	to{
+ 		transform:rotateY(360deg);
+ 		}
+ }
+.message-two li:hover .message-picture1{
+	color:#ff0000;
+}
+.message-two li:hover .message-photo1{
+	animation:message-cartoon 2s infinite;
+}
+
+.message-picture1 {
+	width: 50px;
+	height: 20px;
+	text-align: center;
+	position: relative;
+	left: 1px;
+	top: -20px;
+}
+.message-photo2 {
+	background-position: -36px 0px;
+	display: block;
+	width: 36px;
+	height: 36px;
+	margin: 0px auto;
+	background-image: url(./HTML和CSS作品图片视频/sprite.png);
+	background-repeat: no-repeat;
+}
+.message-picture2 {
+	width: 50px;
+	height: 20px;
+	text-align: center;
+	position: relative;
+	left: 1px;
+	top: -20px;
+}
+.message-two li:hover .message-picture2{
+	color:#ff0000;
+}
+.message-two li:hover .message-photo2{
+	animation:message-cartoon 2s infinite;
+}
+.message-photo3 {
+	background-position: -66px 0px;
+	display: block;
+	width: 36px;
+	height: 36px;
+	margin: 0px auto;
+	background-image: url(./HTML和CSS作品图片视频/sprite.png);
+	background-repeat: no-repeat;
+}
+.message-picture3 {
+	width: 50px;
+	height: 20px;
+	text-align: center;
+	position: relative;
+	left: 1px;
+	top: -20px;
+}
+.message-two li:hover .message-picture3{
+	color:#ff0000;
+}
+.message-two li:hover .message-photo3{
+	animation:message-cartoon 2s infinite;
+}
+.message-photo4 {
+	background-position: 2px 0px;
+	display: block;
+	width: 36px;
+	height: 36px;
+	margin: 0px auto;
+	background-image: url(./HTML和CSS作品图片视频/sprite.png);
+	background-repeat: no-repeat;
+}
+.message-picture4 {
+	width: 50px;
+	height: 20px;
+	text-align: center;
+	position: relative;
+	left: 1px;
+	top: -20px;
+}
+.message-two li:hover .message-picture4{
+	color:#ff0000;
+}
+.message-two li:hover .message-photo4{
+	animation:message-cartoon 2s infinite;
+}
+.message-photo5 {
+	background-position: -142px 0px;
+	display: block;
+	width: 36px;
+	height: 36px;
+	margin: 0px auto;
+	background-image: url(./HTML和CSS作品图片视频/sprite.png);
+	background-repeat: no-repeat;
+}
+.message-picture5 {
+	width: 50px;
+	height: 20px;
+	text-align: center;
+	position: relative;
+	left: 1px;
+	top: -20px;
+}
+.message-two li:hover .message-picture5{
+	color:#ff0000;
+}
+.message-two li:hover .message-photo5{
+	animation:message-cartoon 2s infinite;
+}
+.message-photo6 {
+	background-position: -178px 0px;
+	display: block;
+	width: 36px;
+	height: 36px;
+	margin: 0px auto;
+	background-image: url(./HTML和CSS作品图片视频/sprite.png);
+	background-repeat: no-repeat;
+}
+.message-picture6 {
+	width: 50px;
+	height: 20px;
+	text-align: center;
+	position: relative;
+	left: 1px;
+	top: -20px;
+}
+.message-two li:hover .message-picture6{
+	color:#ff0000;
+}
+.message-two li:hover .message-photo6{
+	animation:message-cartoon 2s infinite;
+}
+.message-photo7 {
+	background-position: -214px 0px;
+	display: block;
+	width: 36px;
+	height: 36px;
+	margin: 0px auto;
+	background-image: url(./HTML和CSS作品图片视频/sprite.png);
+	background-repeat: no-repeat;
+}
+.message-picture7 {
+	width: 50px;
+	height: 20px;
+	text-align: center;
+	position: relative;
+	left: 1px;
+	top: -20px;
+}
+.message-two li:hover .message-picture7{
+	color:#ff0000;
+}
+.message-two li:hover .message-photo7{
+	animation:message-cartoon 2s infinite;
+}
+.message-photo8 {
+	background-position: -250px 0px;
+	display: block;
+	width: 36px;
+	height: 36px;
+	margin: 0px auto;
+	background-image: url(./HTML和CSS作品图片视频/sprite.png);
+	background-repeat: no-repeat;
+}
+.message-picture8 {
+	width: 50px;
+	height: 20px;
+	text-align: center;
+	position: relative;
+	left: 1px;
+	top: -20px;
+}
+.message-two li:hover .message-picture8{
+	color:#ff0000;
+}
+.message-two li:hover .message-photo8{
+	animation:message-cartoon 2s infinite;
+}
+.message-photo9 {
+	background-position: -290px 0px;
+	display: block;
+	width: 36px;
+	height: 36px;
+	margin: 0px auto;
+	background-image: url(./HTML和CSS作品图片视频/sprite.png);
+	background-repeat: no-repeat;
+}
+.message-picture9 {
+	width: 50px;
+	height: 20px;
+	text-align: center;
+	position: relative;
+	left: 1px;
+	top: -20px;
+}
+.message-two li:hover .message-picture9{
+	color:#ff0000;
+}
+.message-two li:hover .message-photo9{
+	animation:message-cartoon 2s infinite;
+}
+.PlayersZone{
+	width:1200px;
+	height:544px;
+	position: relative;
+}
+.PlayersZone-one{
+	width:1200px;
+	height:40px;
+	border-bottom: 1px solid black;
+}
+.Players-one{
+	background-position: -96px -60px;
+	display: block;
+	width: 24px;
+	height: 24px;
+	margin: 0px auto;
+	background-image: url(./HTML和CSS作品图片视频/sprite.png);
+	background-repeat: no-repeat;
+	position: absolute;
+	left:0;
+	top:8px;
+}
+.PlayersZone-one h2{
+	width:120px;
+	height:30px;
+	text-align: center;
+	position: absolute;
+	left:20px;
+	top:5px;
+}
+.Players-two{
+	position: absolute;
+	right:0px;
+	top:5px;
+}
+.PlayersZone-two{
+	width:1200px;
+	height:290px;
+	margin-top: 20px;
+	position: relative;
+}
+.Players-three{
+	width:1200px;
+	height:40px;
+}
+.Players-three li{
+	float: left;
+	width: 300px;
+	height: 40px;
+	list-style: none;
+}
+.Players-three-1{
+	width:300;
+	height:40;
+	border-bottom: 1px solid black;
+	text-align: center;
+	line-height: 40px;
+}
+.Players-three-1:hover{
+	border-bottom-color: #ff0000;
+}
+.Players-three-1 a:hover{
+	color: #ff0000;
+}
+
+.Players-three li a{
+	color: #000000;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 40px;
+}
+.Players-four{
+	width:1200px;
+	height:204px;
+	margin-top: 25px;
+}
+.Players-four li{
+	float: left;
+	width:200px;
+	height: 180px;
+	list-style: none;
+	text-align: center;
+	margin-left:2px;
+	margin-left: 40px;
+}
+.Players-four li:first-child{
+	margin-left: 0px;
+}
+.Players-four li img{
+	margin-left: 16px;
+}
+.Players-five1{
+	position: relative;
+	overflow: hidden;
+	width:200px;
+	height:115px;
+	background-image: url(HTML和CSS作品图片视频/下载.jpg);
+}
+.Players-six1{
+	width: 400px;
+	height:300px;
+	opacity:0;
+	position: absolute;
+	left:-80px;
+	top: -60px;
+	background-color:#ff0000;
+	background-image: url(HTML和CSS作品图片视频/v-ico.png);
+	background-size: 35px ;
+	background-position:150px 70px;
+	background-repeat: no-repeat;
+}
+.Players-four li:hover .Players-six1{
+	opacity: 0.8;
+	transition: all 0.4s ease-in-out;
+	transform: scale(0.6,0.6);
+	
+}
+.v-title1{
+	float: left;
+	width:200px;
+	height:45px;
+	position: absolute;
+	left: 0;
+	bottom:30px;
+	color: #766967;
+	font-size:10px;
+	border-bottom: none;
+}
+.Players-four li:hover .v-title1{
+	color:#d04d39;
+}
+.Players-five2{
+	position: relative;
+	overflow: hidden;
+	width:200px;
+	height:115px;
+	background-image: url(./HTML和CSS作品图片视频/下载1.jpg);
+}
+.Players-six2{
+	width: 400px;
+	height:300px;
+	opacity:0;
+	position: absolute;
+	left:-80px;
+	top: -60px;
+	background-color:#ff0000;
+	background-image: url(HTML和CSS作品图片视频/v-ico.png);
+	background-size: 35px ;
+	background-position:150px 70px;
+	background-repeat: no-repeat;
+}
+.Players-four li:hover .Players-six2{
+	opacity: 0.8;
+	transition: all 0.4s ease-in-out;
+	transform: scale(0.6,0.6);
+	
+}
+.v-title2{
+	float: left;
+	width:200px;
+	height:45px;
+	position: absolute;
+	right:760px;
+	bottom:30px;
+	color: #766967;
+	font-size:10px;
+}
+.Players-four li:hover .v-title2{
+	color:#d04d39
+}
+.Players-five3{
+	position: relative;
+	overflow: hidden;
+	width:200px;
+	height:115px;
+	background-image: url(./HTML和CSS作品图片视频/下载2.jpg);
+}
+.Players-six3{
+	width: 400px;
+	height:300px;
+	opacity:0;
+	position: absolute;
+	left:-80px;
+	top: -60px;
+	background-color:#ff0000;
+	background-image: url(HTML和CSS作品图片视频/v-ico.png);
+	background-size: 35px ;
+	background-position:150px 70px;
+	background-repeat: no-repeat;
+}
+.Players-four li:hover .Players-six3{
+	opacity: 0.8;
+	transition: all 0.4s ease-in-out;
+	transform: scale(0.6,0.6);
+	
+}
+.v-title3{
+	float: left;
+	width:200px;
+	height:45px;
+	position: absolute;
+	right:520px;
+	bottom:30px;
+	color: #766967;
+	font-size:10px;
+}
+.Players-four li:hover .v-title3{
+	color:#d04d39
+}
+.Players-five4{
+	position: relative;
+	overflow: hidden;
+	width:200px;
+	height:115px;
+	background-image: url(./HTML和CSS作品图片视频/下载3.jpg);
+}
+.Players-six4{
+	width: 400px;
+	height:300px;
+	opacity:0;
+	position: absolute;
+	left:-80px;
+	top: -60px;
+	background-color:#ff0000;
+	background-image: url(HTML和CSS作品图片视频/v-ico.png);
+	background-size: 35px ;
+	background-position:150px 70px;
+	background-repeat: no-repeat;
+}
+.Players-four li:hover .Players-six4{
+	opacity: 0.8;
+	transition: all 0.4s ease-in-out;
+	transform: scale(0.6,0.6);
+	
+}
+.v-title4{
+	float: left;
+	width:200px;
+	height:45px;
+	position: absolute;
+	right:280px;
+	bottom:30px;
+	color: #766967;
+	font-size:10px;
+}
+.Players-four li:hover .v-title4{
+	color:#d04d39
+}
+.Players-five5{
+	position: relative;
+	overflow: hidden;
+	width:200px;
+	height:115px;
+	background-image: url(./HTML和CSS作品图片视频/下载4.jpg);
+}
+.Players-six5{
+	width: 400px;
+	height:300px;
+	opacity:0;
+	position: absolute;
+	left:-80px;
+	top: -60px;
+	background-color:#ff0000;
+	background-image: url(HTML和CSS作品图片视频/v-ico.png);
+	background-size: 35px ;
+	background-position:150px 70px;
+	background-repeat: no-repeat;
+}
+.Players-four li:hover .Players-six5{
+	opacity: 0.8;
+	transition: all 0.4s ease-in-out;
+	transform: scale(0.6,0.6);
+	
+}
+.v-title5{
+	float: left;
+	width:200px;
+	height:45px;
+	position: absolute;
+	right:40px;
+	bottom:30px;
+	color: #766967;
+	font-size:10px;
+}
+.Players-four li:hover .v-title5{
+	color:#d04d39
+}
+.Players-four1{
+		width:1200px;
+		height:204px;
+		margin-top: 25px;
+		display: none;
+		position: absolute;
+		left: 0;
+	}
+	.Players-four1 li{
+		float: left;
+		width:200px;
+		height: 180px;
+		list-style: none;
+		text-align: center;
+		margin-left:2px;
+		margin-left: 40px;
+	}
+	.Players-four1 li:first-child{
+		margin-left: 0px;
+	}
+	.Players-four1 li img{
+		margin-left: 16px;
+	}
+	.Players-five11{
+		position: relative;
+		overflow: hidden;
+		width:200px;
+		height:115px;
+		background-image: url(./HTML和CSS作品图片视频/下载5.jpg);
+	}
+	.Players-six11{
+		width: 400px;
+		height:300px;
+		opacity:0;
+		position: absolute;
+		left:-80px;
+		top: -60px;
+		background-color:#ff0000;
+		background-image: url(HTML和CSS作品图片视频/v-ico.png);
+		background-size: 35px ;
+		background-position:150px 70px;
+		background-repeat: no-repeat;
+	}
+	.Players-four1 li:hover .Players-six11{
+		opacity: 0.8;
+		transition: all 0.4s ease-in-out;
+		transform: scale(0.6,0.6);
+		
+	}
+	.v-title11{
+		float: left;
+		width:200px;
+		height:45px;
+		position: absolute;
+		left: 0;
+		bottom:30px;
+		color: #766967;
+		font-size:10px;
+		border-bottom: none;
+	}
+	.Players-four1 li:hover .v-title11{
+		color:#d04d39;
+	}
+	.Players-five21{
+		position: relative;
+		overflow: hidden;
+		width:200px;
+		height:115px;
+		background-image: url(./HTML和CSS作品图片视频/下载.png);
+	}
+	.Players-six21{
+		width: 400px;
+		height:300px;
+		opacity:0;
+		position: absolute;
+		left:-80px;
+		top: -60px;
+		background-color:#ff0000;
+		background-image: url(HTML和CSS作品图片视频/v-ico.png);
+		background-size: 35px ;
+		background-position:150px 70px;
+		background-repeat: no-repeat;
+	}
+	.Players-four1 li:hover .Players-six21{
+		opacity: 0.8;
+		transition: all 0.4s ease-in-out;
+		transform: scale(0.6,0.6);
+		
+	}
+	.v-title21{
+		float: left;
+		width:200px;
+		height:45px;
+		position: absolute;
+		right:760px;
+		bottom:30px;
+		color: #766967;
+		font-size:10px;
+	}
+	.Players-four1 li:hover .v-title21{
+		color:#d04d39
+	}
+	.Players-five31{
+		position: relative;
+		overflow: hidden;
+		width:200px;
+		height:115px;
+		background-image: url(./HTML和CSS作品图片视频/下载1.png);
+	}
+	.Players-six31{
+		width: 400px;
+		height:300px;
+		opacity:0;
+		position: absolute;
+		left:-80px;
+		top: -60px;
+		background-color:#ff0000;
+		background-image: url(HTML和CSS作品图片视频/v-ico.png);
+		background-size: 35px ;
+		background-position:150px 70px;
+		background-repeat: no-repeat;
+	}
+	.Players-four1 li:hover .Players-six31{
+		opacity: 0.8;
+		transition: all 0.4s ease-in-out;
+		transform: scale(0.6,0.6);
+		
+	}
+	.v-title31{
+		float: left;
+		width:200px;
+		height:45px;
+		position: absolute;
+		right:520px;
+		bottom:30px;
+		color: #766967;
+		font-size:10px;
+	}
+	.Players-four1 li:hover .v-title31{
+		color:#d04d39
+	}
+	.Players-five41{
+		position: relative;
+		overflow: hidden;
+		width:200px;
+		height:115px;
+		background-image: url(./HTML和CSS作品图片视频/下载6.jpg);
+	}
+	.Players-six41{
+		width: 400px;
+		height:300px;
+		opacity:0;
+		position: absolute;
+		left:-80px;
+		top: -60px;
+		background-color:#ff0000;
+		background-image: url(HTML和CSS作品图片视频/v-ico.png);
+		background-size: 35px ;
+		background-position:150px 70px;
+		background-repeat: no-repeat;
+	}
+	.Players-four1 li:hover .Players-six41{
+		opacity: 0.8;
+		transition: all 0.4s ease-in-out;
+		transform: scale(0.6,0.6);
+		
+	}
+	.v-title41{
+		float: left;
+		width:200px;
+		height:45px;
+		position: absolute;
+		right:280px;
+		bottom:30px;
+		color: #766967;
+		font-size:10px;
+	}
+	.Players-four1 li:hover .v-title41{
+		color:#d04d39
+	}
+	.Players-five51{
+		position: relative;
+		overflow: hidden;
+		width:200px;
+		height:115px;
+		background-image: url(./HTML和CSS作品图片视频/下载7.jpg);
+	}
+	.Players-six51{
+		width: 400px;
+		height:300px;
+		opacity:0;
+		position: absolute;
+		left:-80px;
+		top: -60px;
+		background-color:#ff0000;
+		background-image: url(HTML和CSS作品图片视频/v-ico.png);
+		background-size: 35px ;
+		background-position:150px 70px;
+		background-repeat: no-repeat;
+	}
+	.Players-four1 li:hover .Players-six51{
+		opacity: 0.8;
+		transition: all 0.4s ease-in-out;
+		transform: scale(0.6,0.6);
+		
+	}
+	.v-title51{
+		float: left;
+		width:200px;
+		height:45px;
+		position: absolute;
+		right:40px;
+		bottom:30px;
+		color: #766967;
+		font-size:10px;
+	}
+	.Players-four1 li:hover .v-title51{
+		color:#d04d39
+	}
+ .Players-three li:hover .Players-four1{
+	 display: block;
+ }
+ .Players2-three:hover .v-title11{
+ 	display: block;
+ 	background-color: white;
+ }
+ .Players2-three:hover .v-title21{
+ 	display: block;
+ 	background-color: white;
+ }
+ .Players2-three:hover .v-title31{
+ 	display: block;
+ 	background-color: white;
+ }
+ .Players2-three:hover .v-title41{
+ 	display: block;
+ 	background-color: white;
+ }
+ .Players2-three:hover .v-title51{
+ 	display: block;
+ 	background-color: white;
+ }
+ /* dgdsfgdfgdsfg */
+ .Players-four1{
+ 		width:1200px;
+ 		height:204px;
+ 		margin-top: 25px;
+ 		display: none;
+ 		position: absolute;
+ 		left: 0;
+ 	}
+ 	.Players-four1 li{
+ 		float: left;
+ 		width:200px;
+ 		height: 180px;
+ 		list-style: none;
+ 		text-align: center;
+ 		margin-left:2px;
+ 		margin-left: 40px;
+ 	}
+ 	.Players-four1 li:first-child{
+ 		margin-left: 0px;
+ 	}
+ 	.Players-four1 li img{
+ 		margin-left: 16px;
+ 	}
+ 	.Players-five111{
+ 		position: relative;
+ 		overflow: hidden;
+ 		width:200px;
+ 		height:115px;
+ 		background-image: url(HTML和CSS作品图片视频/下载8.jpg);
+ 	}
+ 	.Players-six111{
+ 		width: 400px;
+ 		height:300px;
+ 		opacity:0;
+ 		position: absolute;
+ 		left:-80px;
+ 		top: -60px;
+ 		background-color:#ff0000;
+ 		background-image: url(HTML和CSS作品图片视频/v-ico.png);
+ 		background-size: 35px ;
+ 		background-position:150px 70px;
+ 		background-repeat: no-repeat;
+ 	}
+ 	.Players-four1 li:hover .Players-six111{
+ 		opacity: 0.8;
+ 		transition: all 0.4s ease-in-out;
+ 		transform: scale(0.6,0.6);
+ 		
+ 	}
+ 	.v-title111{
+ 		float: left;
+ 		width:200px;
+ 		height:45px;
+ 		position: absolute;
+ 		left: 0;
+ 		bottom:30px;
+ 		color: #766967;
+ 		font-size:10px;
+ 		border-bottom: none;
+ 	}
+ 	.Players-four li:hover .v-title111{
+ 		color:#d04d39;
+ 	}
+ 	.Players-five211{
+ 		position: relative;
+ 		overflow: hidden;
+ 		width:200px;
+ 		height:115px;
+ 		background-image: url(./HTML和CSS作品图片视频/下载9.jpg);
+ 	}
+ 	.Players-six211{
+ 		width: 400px;
+ 		height:300px;
+ 		opacity:0;
+ 		position: absolute;
+ 		left:-80px;
+ 		top: -60px;
+ 		background-color:#ff0000;
+ 		background-image: url(HTML和CSS作品图片视频/v-ico.png);
+ 		background-size: 35px ;
+ 		background-position:150px 70px;
+ 		background-repeat: no-repeat;
+ 	}
+ 	.Players-four1 li:hover .Players-six211{
+ 		opacity: 0.8;
+ 		transition: all 0.4s ease-in-out;
+ 		transform: scale(0.6,0.6);
+ 		
+ 	}
+ 	.v-title211{
+ 		float: left;
+ 		width:200px;
+ 		height:45px;
+ 		position: absolute;
+ 		right:760px;
+ 		bottom:30px;
+ 		color: #766967;
+ 		font-size:10px;
+ 	}
+ 	.Players-four1 li:hover .v-title211{
+ 		color:#d04d39
+ 	}
+ 	.Players-five311{
+ 		position: relative;
+ 		overflow: hidden;
+ 		width:200px;
+ 		height:115px;
+ 		background-image: url(./HTML和CSS作品图片视频/下载%2010.jpg);
+ 	}
+ 	.Players-six311{
+ 		width: 400px;
+ 		height:300px;
+ 		opacity:0;
+ 		position: absolute;
+ 		left:-80px;
+ 		top: -60px;
+ 		background-color:#ff0000;
+ 		background-image: url(HTML和CSS作品图片视频/v-ico.png);
+ 		background-size: 35px ;
+ 		background-position:150px 70px;
+ 		background-repeat: no-repeat;
+ 	}
+ 	.Players-four1 li:hover .Players-six311{
+ 		opacity: 0.8;
+ 		transition: all 0.4s ease-in-out;
+ 		transform: scale(0.6,0.6);
+ 		
+ 	}
+ 	.v-title311{
+ 		float: left;
+ 		width:200px;
+ 		height:45px;
+ 		position: absolute;
+ 		right:520px;
+ 		bottom:30px;
+ 		color: #766967;
+ 		font-size:10px;
+ 	}
+ 	.Players-four1 li:hover .v-title311{
+ 		color:#d04d39
+ 	}
+ 	.Players-five411{
+ 		position: relative;
+ 		overflow: hidden;
+ 		width:200px;
+ 		height:115px;
+ 		background-image: url(./HTML和CSS作品图片视频/下载2.png);
+ 	}
+ 	.Players-six411{
+ 		width: 400px;
+ 		height:300px;
+ 		opacity:0;
+ 		position: absolute;
+ 		left:-80px;
+ 		top: -60px;
+ 		background-color:#ff0000;
+ 		background-image: url(HTML和CSS作品图片视频/v-ico.png);
+ 		background-size: 35px ;
+ 		background-position:150px 70px;
+ 		background-repeat: no-repeat;
+ 	}
+ 	.Players-four1 li:hover .Players-six411{
+ 		opacity: 0.8;
+ 		transition: all 0.4s ease-in-out;
+ 		transform: scale(0.6,0.6);
+ 		
+ 	}
+ 	.v-title411{
+ 		float: left;
+ 		width:200px;
+ 		height:45px;
+ 		position: absolute;
+ 		right:280px;
+ 		bottom:30px;
+ 		color: #766967;
+ 		font-size:10px;
+ 	}
+ 	.Players-four1 li:hover .v-title411{
+ 		color:#d04d39
+ 	}
+ 	.Players-five511{
+ 		position: relative;
+ 		overflow: hidden;
+ 		width:200px;
+ 		height:115px;
+ 		background-image: url(./HTML和CSS作品图片视频/下载11.jpg);
+ 	}
+ 	.Players-six511{
+ 		width: 400px;
+ 		height:300px;
+ 		opacity:0;
+ 		position: absolute;
+ 		left:-80px;
+ 		top: -60px;
+ 		background-color:#ff0000;
+ 		background-image: url(HTML和CSS作品图片视频/v-ico.png);
+ 		background-size: 35px ;
+ 		background-position:150px 70px;
+ 		background-repeat: no-repeat;
+ 	}
+ 	.Players-four1 li:hover .Players-six511{
+ 		opacity: 0.8;
+ 		transition: all 0.4s ease-in-out;
+ 		transform: scale(0.6,0.6);
+ 		
+ 	}
+ 	.v-title511{
+ 		float: left;
+ 		width:200px;
+ 		height:45px;
+ 		position: absolute;
+ 		right:40px;
+ 		bottom:30px;
+ 		color: #766967;
+ 		font-size:10px;
+ 	}
+ 	.Players-four1 li:hover .v-title511{
+ 		color:#d04d39
+ 	}
+  .Players-three li:hover .Players-four1{
+ 	 display: block;
+  }
+  .Players3-three:hover .v-title111{
+  	display: block;
+  	background-color: white;
+  }
+  .Players3-three:hover .v-title211{
+  	display: block;
+  	background-color: white;
+  }
+  .Players3-three:hover .v-title311{
+  	display: block;
+  	background-color: white;
+  }
+  .Players3-three:hover .v-title411{
+  	display: block;
+  	background-color: white;
+  }
+  .Players3-three:hover .v-title511{
+  	display: block;
+  	background-color: white;
+  }
+  .Players-four1{
+  		width:1200px;
+  		height:204px;
+  		margin-top: 25px;
+  		display: none;
+  		position: absolute;
+  		left: 0;
+  	}
+  	.Players-four1 li{
+  		float: left;
+  		width:200px;
+  		height: 180px;
+  		list-style: none;
+  		text-align: center;
+  		margin-left:2px;
+  		margin-left: 40px;
+  	}
+  	.Players-four1 li:first-child{
+  		margin-left: 0px;
+  	}
+  	.Players-four1 li img{
+  		margin-left: 16px;
+  	}
+  	.Players-five1111{
+  		position: relative;
+  		overflow: hidden;
+  		width:200px;
+  		height:115px;
+  		background-image: url(HTML和CSS作品图片视频/下载12.jpg);
+  	}
+  	.Players-six1111{
+  		width: 400px;
+  		height:300px;
+  		opacity:0;
+  		position: absolute;
+  		left:-80px;
+  		top: -60px;
+  		background-color:#ff0000;
+  		background-image: url(HTML和CSS作品图片视频/v-ico.png);
+  		background-size: 35px ;
+  		background-position:150px 70px;
+  		background-repeat: no-repeat;
+  	}
+  	.Players-four1 li:hover .Players-six1111{
+  		opacity: 0.8;
+  		transition: all 0.4s ease-in-out;
+  		transform: scale(0.6,0.6);
+  		
+  	}
+  	.v-title1111{
+  		float: left;
+  		width:200px;
+  		height:45px;
+  		position: absolute;
+  		left: 0;
+  		bottom:30px;
+  		color: #766967;
+  		font-size:10px;
+  		border-bottom: none;
+  	}
+  	.Players-four li:hover .v-title1111{
+  		color:#d04d39;
+  	}
+  	.Players-five2111{
+  		position: relative;
+  		overflow: hidden;
+  		width:200px;
+  		height:115px;
+  		background-image: url(./HTML和CSS作品图片视频/下载13.jpg);
+  	}
+  	.Players-six2111{
+  		width: 400px;
+  		height:300px;
+  		opacity:0;
+  		position: absolute;
+  		left:-80px;
+  		top: -60px;
+  		background-color:#ff0000;
+  		background-image: url(HTML和CSS作品图片视频/v-ico.png);
+  		background-size: 35px ;
+  		background-position:150px 70px;
+  		background-repeat: no-repeat;
+  	}
+  	.Players-four1 li:hover .Players-six2111{
+  		opacity: 0.8;
+  		transition: all 0.4s ease-in-out;
+  		transform: scale(0.6,0.6);
+  		
+  	}
+  	.v-title2111{
+  		float: left;
+  		width:200px;
+  		height:45px;
+  		position: absolute;
+  		right:760px;
+  		bottom:30px;
+  		color: #766967;
+  		font-size:10px;
+  	}
+  	.Players-four1 li:hover .v-title2111{
+  		color:#d04d39
+  	}
+  	.Players-five3111{
+  		position: relative;
+  		overflow: hidden;
+  		width:200px;
+  		height:115px;
+  		background-image: url(./HTML和CSS作品图片视频/下载14.jpg);
+  	}
+  	.Players-six3111{
+  		width: 400px;
+  		height:300px;
+  		opacity:0;
+  		position: absolute;
+  		left:-80px;
+  		top: -60px;
+  		background-color:#ff0000;
+  		background-image: url(HTML和CSS作品图片视频/v-ico.png);
+  		background-size: 35px ;
+  		background-position:150px 70px;
+  		background-repeat: no-repeat;
+  	}
+  	.Players-four1 li:hover .Players-six3111{
+  		opacity: 0.8;
+  		transition: all 0.4s ease-in-out;
+  		transform: scale(0.6,0.6);
+  		
+  	}
+  	.v-title3111{
+  		float: left;
+  		width:200px;
+  		height:45px;
+  		position: absolute;
+  		right:520px;
+  		bottom:30px;
+  		color: #766967;
+  		font-size:10px;
+  	}
+  	.Players-four1 li:hover .v-title3111{
+  		color:#d04d39
+  	}
+  	.Players-five4111{
+  		position: relative;
+  		overflow: hidden;
+  		width:200px;
+  		height:115px;
+  		background-image: url(./HTML和CSS作品图片视频/下载15.jpg);
+  	}
+  	.Players-six4111{
+  		width: 400px;
+  		height:300px;
+  		opacity:0;
+  		position: absolute;
+  		left:-80px;
+  		top: -60px;
+  		background-color:#ff0000;
+  		background-image: url(HTML和CSS作品图片视频/v-ico.png);
+  		background-size: 35px ;
+  		background-position:150px 70px;
+  		background-repeat: no-repeat;
+  	}
+  	.Players-four1 li:hover .Players-six4111{
+  		opacity: 0.8;
+  		transition: all 0.4s ease-in-out;
+  		transform: scale(0.6,0.6);
+  		
+  	}
+  	.v-title4111{
+  		float: left;
+  		width:200px;
+  		height:45px;
+  		position: absolute;
+  		right:280px;
+  		bottom:30px;
+  		color: #766967;
+  		font-size:10px;
+  	}
+  	.Players-four1 li:hover .v-title4111{
+  		color:#d04d39
+  	}
+  	.Players-five5111{
+  		position: relative;
+  		overflow: hidden;
+  		width:200px;
+  		height:115px;
+  		background-image: url(./HTML和CSS作品图片视频/下载16.jpg);
+  	}
+  	.Players-six5111{
+  		width: 400px;
+  		height:300px;
+  		opacity:0;
+  		position: absolute;
+  		left:-80px;
+  		top: -60px;
+  		background-color:#ff0000;
+  		background-image: url(HTML和CSS作品图片视频/v-ico.png);
+  		background-size: 35px ;
+  		background-position:150px 70px;
+  		background-repeat: no-repeat;
+  	}
+  	.Players-four1 li:hover .Players-six5111{
+  		opacity: 0.8;
+  		transition: all 0.4s ease-in-out;
+  		transform: scale(0.6,0.6);
+  		
+  	}
+  	.v-title5111{
+  		float: left;
+  		width:200px;
+  		height:45px;
+  		position: absolute;
+  		right:40px;
+  		bottom:30px;
+  		color: #766967;
+  		font-size:10px;
+  	}
+  	.Players-four1 li:hover .v-title5111{
+  		color:#d04d39
+  	}
+   .Players-three li:hover .Players-four1{
+  	 display: block;
+   }
+   .Players4-three:hover .v-title1111{
+   	display: block;
+   	background-color: white;
+   }
+   .Players4-three:hover .v-title2111{
+   	display: block;
+   	background-color: white;
+   }
+   .Players4-three:hover .v-title3111{
+   	display: block;
+   	background-color: white;
+   }
+   .Players4-three:hover .v-title4111{
+   	display: block;
+   	background-color: white;
+   }
+   .Players4-three:hover .v-title5111{
+   	display: block;
+   	background-color: white;
+   }
